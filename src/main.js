@@ -7,8 +7,10 @@ Vue.config.productionTip = false;
 var aa =
   'gjgjsdfghjkertyuiodfgqwertyuiopgjgjsdfghjkertyuiodfgqwertyuiopgjgjsdfghjkertyuiodfgqwertyuiopgjgjsdfghjkertyuiodfgqwertyuiopgjgjsdfghjkertyuiodfgqwertyuiopgjgjsdfghjkertyuiodfgqwertyuiopgjgjsdfghjkertyuiodfgqwertyuiop';
 var bb = [1, 2, 3];
+
 debugger;
 console.log(aa, bb);
+
 new Vue({
   router,
   store,
